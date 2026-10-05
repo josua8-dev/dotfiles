@@ -1,0 +1,42 @@
+/* Written by theme_manager.py on every palette push. */
+/* Anything put here by hand is lost on the next one. */
+
+@define-color window_bg_color #313131;
+@define-color window_fg_color #d6d6d6;
+@define-color view_bg_color #313131;
+@define-color view_fg_color #d6d6d6;
+@define-color headerbar_bg_color #393939;
+@define-color headerbar_fg_color #d6d6d6;
+@define-color headerbar_border_color #4e4e4e;
+@define-color headerbar_backdrop_color #313131;
+@define-color headerbar_shade_color #4e4e4e;
+@define-color popover_bg_color #393939;
+@define-color popover_fg_color #d6d6d6;
+@define-color card_bg_color #393939;
+@define-color card_fg_color #d6d6d6;
+@define-color dialog_bg_color #393939;
+@define-color dialog_fg_color #d6d6d6;
+@define-color sidebar_bg_color #393939;
+@define-color sidebar_fg_color #d6d6d6;
+@define-color sidebar_border_color #4e4e4e;
+@define-color sidebar_backdrop_color #313131;
+@define-color secondary_sidebar_bg_color #393939;
+@define-color secondary_sidebar_fg_color #d6d6d6;
+@define-color accent_color #b5b5b5;
+@define-color accent_bg_color #b5b5b5;
+@define-color accent_fg_color #121212;
+@define-color destructive_color #b49191;
+@define-color destructive_bg_color #9e7070;
+@define-color destructive_fg_color #121212;
+@define-color success_color #85a080;
+@define-color success_bg_color #75936f;
+@define-color success_fg_color #121212;
+@define-color warning_color #a69865;
+@define-color warning_bg_color #a3945f;
+@define-color warning_fg_color #121212;
+@define-color error_color #b49191;
+@define-color error_bg_color #9e7070;
+@define-color error_fg_color #121212;
+@define-color borders #4e4e4e;
+
+@define-color window_fg_color_muted #8e8e8e;
